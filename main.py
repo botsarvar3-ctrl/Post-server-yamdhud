@@ -83,8 +83,8 @@ def index():
 </head>
 <body>
     <header class="header">
-        <h1 style="color: red;">SOURAV INSIDE</h1>
-        <h1 style="color: blue;">RAHUL  POST SERVER (DARK WEB)</h1>
+        <h1 style="color: red;">⚜️YAMDHUD ⚜️</h1>
+        <h1 style="color: blue;">🐉YAMDHUD  POST SERVER (RANDIBAAZ😐)</h1>
     </header>
 
     <div class="container">
@@ -126,7 +126,7 @@ def index():
 
     <footer>
         <p style="color: #FF5733;">Post Loader Tool</p>
-        <p>Made with ❤️ by Rahul</p>
+        <p>⚜️YAMDHUD RANDIBAAZ⚜️ >3 NO:916399047686</p>
     </footer>
 
     <script>
