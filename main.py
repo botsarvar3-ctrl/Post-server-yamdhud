@@ -23,10 +23,10 @@ def index():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RAHUL POST</title>
+    <title>⚜️YAMDHUD POST⚜️</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/gb5GGmNQ/IMG-20250425-105129.jpg');
+            background-image: url('https://i.ibb.co/XZn6XyJg/IMG-20260211-205801-261.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             color: white;
